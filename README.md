@@ -56,8 +56,8 @@ This example covers several key aspects, including:
 
 The repository is structured as follows:
 
-- `notebook/`: Contains the Jupyter notebook for fine-tuning Llama-2-7b.
-- `data/`: Placeholder for datasets used in the example.
+- `PEFT_of_Llama2_7b_using_QLoRA_AK.ipynb`: Contains the Jupyter notebook for fine-tuning Llama-2-7b.
+- `Data.zip`: Zip file with Datasets used in the example.
 - `README.md`: This readme file.
 
 ## References:
